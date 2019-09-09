@@ -1,0 +1,5 @@
+#include "Celtree.h"
+#include "Loader.h"
+#include "LoaderRLE.h"
+#include "Rules_totalistic.h"
+#include "Rules_gol.h"

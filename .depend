@@ -1,0 +1,5 @@
+Celtree.o: Celtree.cpp Celtree.h Quadtree.h pos2D.h cel.h Rules.h
+LoaderRLE.o: LoaderRLE.cpp LoaderRLE.h Loader.h Celtree.h Quadtree.h \
+ pos2D.h cel.h Rules.h
+Rules_totalistic.o: Rules_totalistic.cpp Rules_totalistic.h Rules.h cel.h \
+ pos2D.h
